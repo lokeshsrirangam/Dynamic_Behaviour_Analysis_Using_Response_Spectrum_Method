@@ -1,0 +1,1 @@
+# Dynamic_Behaviour_-Analysis_-Using_-Response_Spectrum_Method-
