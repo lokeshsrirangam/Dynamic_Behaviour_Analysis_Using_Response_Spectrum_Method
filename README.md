@@ -1,4 +1,4 @@
-# Dynamic_Behaviour_-Analysis_-Using_-Response_Spectrum_Method-
+# Dynamic_Behaviour_Analysis_Using_Response_Spectrum_Method
 Dynamic Behaviour of Different Slab Systems Under Seismic Loading
 
 
